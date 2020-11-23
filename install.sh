@@ -21,7 +21,6 @@ cat >.profile <<EOM
 apt update
 apt install -y default-jre
 
-echo Made by Cochces™
 echo Geyser has been installed!
 echo You can now start Geyser at any time using
 echo ./ubuntu_directory/start-ubuntu.sh
